@@ -1,0 +1,29 @@
+admin :
+
+email :mod@root.com
+mot de passe : 1234
+
+les clients :
+
+ab@ok.com
+0102
+
+vt@ok.com
+0304
+
+iq@ok.com( mot de passe est perdu ).
+
+ad@ok.com
+0405
+
+azerty@ok.com
+0910
+
+dernier@ok.com
+dernier
+
+
+
+
+
+
