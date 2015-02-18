@@ -1,0 +1,16 @@
+{
+    "elements": {
+        "img": {
+            "attributes": {
+                "src": {},
+                "alt": {},
+                "title": {}
+            }
+        }
+    },
+    "attributes": {
+        "title_pl\"": {
+            "context": "h1"
+        }
+    }
+}
